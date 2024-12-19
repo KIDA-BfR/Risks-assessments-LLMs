@@ -1,6 +1,9 @@
 Call Type: Single-shot call to GPT 4-o
+
 Uploaded file: Case_Scenario_1_agent_descriptions.json is uploaded
+
 Prompt: You have three negotiation parties whose descriptions are provided in the uploaded json file. The topic to be discussed is Should Bacillus thuringiensis continued to be used as biopesticide in Central Europe? Your task is to simulate the negotiation between these parties with the goal to define specific issues for further discussion. These specific issues should be in the areas where the parties may have disagreement. Limit the final list to 5 specific issues.
+
 Received output:
 Based on the descriptions provided for the three negotiation parties, the specific issues for further discussion regarding the use of Bacillus thuringiensis (Bt) as a biopesticide in Central Europe are:
 
