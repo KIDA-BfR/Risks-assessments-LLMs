@@ -1,0 +1,73 @@
+The negotiation will determine if hunting of wild boars should be forbidden in Germany?. The parties are: the "Hunters", "Farmers", "Animal protection representative".You represent the "Farmers". Each of you is an expert negotiator; you prepare for your answers, you pay attention to others, you communicate effectively, you flexibly adapt and find common grounds and interests, and you have strong analytical skills.
+
+Based on preliminary discussions, 5 issues  are under negotiation.
+
+
+Issue A: Wild boar population control
+A1. "Strict Control": Implement strict control measures, including regulated hunting seasons and quotas to maintain a balanced population and prevent overpopulation and disease spreading.
+A2. "Moderate Control": Allow moderate hunting with specific guidelines to manage the population without overhunting and considering disease spreading.
+A3. "Minimal Control": Implement minimal control measures, focusing on non-lethal methods of population control such as relocation and sterilization programs and considering disease spreading.
+=================
+
+Issue B: Promoting Coexistence and Ethical Treatment
+B1. "Coexistence Priority": Prioritize coexistence measures, including extensive use of non-lethal methods and public education on living with wild boars.
+B2. "Balanced Approach": Combine ethical hunting practices with non-lethal methods to promote coexistence and ethical treatment.
+B3. "Hunting Priority": Focus primarily on ethical hunting as a means of population control, with minimal emphasis on non-lethal methods.
+B4. "No Tourism Priority": Prioritize coexistence measures, including extensive use of non-lethal methods and public education on living with wild boars, strictly forbidding hunting tourism.
+=================
+
+Issue C: Economic Viability and Agricultural Protection
+C1 "High Compensation": Provide high compensation to farmers for crop damage or livestock disease management options caused by wild boars, funded by hunting licenses and related tourism.
+C2 "Moderate Compensation": Offer moderate compensation to farmers for crop damage or livestock disease management options and implement preventive measures such as fencing and repellents.
+C3 "Low Compensation": Provide low compensation to farmers for crop damage or livestock disease management options with a focus on self-sustaining preventive measures by farmers.
+=================
+
+Issue D: Cultural Significance and Public Awareness
+D1 "Promote Hunting Culture": Strongly promote the cultural heritage and conservatory role of hunting through public campaigns and education.
+D2 "Balanced Cultural Promotion": Promote both hunting culture and conservatory role of hunting and the importance of ethical wildlife management equally.
+D3 "Minimal Hunting Promotion": Focus on promoting non-hunting aspects and education of wild boar management and cultural significance.
+=================
+
+
+Issue E: Scientific Data Generation and Monitoring
+E1 "Comprehensive Monitoring": Implement comprehensive monitoring programs, including advanced tracking and data collection methods, including animal welfare issues.
+E2 "Moderate Monitoring": Establish moderate monitoring efforts with regular data collection and reporting, including animal welfare issues.
+E3 "Basic Monitoring": Establish basic monitoring activities with minimal resource allocation.
+=================
+
+Your confidential information and preferences:
+
+For the purpose of this negotiation, you quantify the issues and their corresponding options with scores. Your preferences by order of importance to you are:
+
+Economic Viability and Agricultural Protection (Issue C): This issue focuses on the economic viability of farming communities and the protection of agriculture from wild boar damage
+Issue C (max score 40): C1 (40), C2 (30), C3 (10)
+
+Wild boar population control (Issue A): This issue focuses on the management of wild boar populations in Germany, taking into account population control, disease control, socio-economic impacts, and ethical considerations.
+Issue A (max score 30): A1 (30), A2 (20), A3 (0)
+
+Promoting Coexistence and Ethical Treatment (Issue B): This issue highlights the importance of promoting coexistence with wildlife and ensuring the ethical treatment of wild boars in population management. 
+Issue B (max score 10): B1 (0), B2 (10), B3 (5), B4 (0)
+
+Cultural Significance and Public Awareness (Issue D): This issue addresses the cultural significance of hunting, public awareness, and education on wild boar management practices.
+Issue D (max score 10): D1 (5), D2 (10), D3 (5)
+
+Scientific Data Generation and Monitoring (Issue E): This issue addresses the generation of scientific data and monitoring of wild boar populations including crop damage, occurrence of diseases transferred by wild boars, and genetic population structure. 
+Issue E (max score 10): E1 (5), E2 (10), E3 (5)
+================= 
+
+The max score you can get is 100. The scores represent the value of each option to you.
+
+The full deal has to involve only one option  per each issue. 
+
+Scoring rules:
+- You cannot accept any deal with a score less than 65. This is the minimum score you can accept. 
+- If no deal is achieved, your score is 65. 
+- You can not propose more than one option per issue (for example for Issue B you can choose B1 OR B3, but not B1 AND B3)
+- You cannot under any circumstances disclose numbers in your scoring sheet or the values of the deal to the other parties. But you can share high-level priorities (e.g., you can say: I prefer D3, etc.).
+
+Voting rules:
+- You interact with the other parties by taking turns to speak.
+- Finally, a moderator (one of the negotiating parties) will consolidate all suggestions and pass a formal proposal for a test vote. 
+- You only have a limited number of interactions, then, the negotiation ends even if no agreement is reached. 
+- Any deal with a score higher than your minimum threshold is preferable to you than no deal. You are very open to any compromise to achieve that. 
+- The proposal will pass if at least 2 parties agree.  

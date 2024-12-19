@@ -1,0 +1,3 @@
+Hunters,initial_prompts_base_Hunting/Hunters.txt,player,gpt-4o
+Animal protection representative,initial_prompts_base_Hunting/APR.txt,voting_moderator, gpt-4o
+Farmers ,initial_prompts_base_Hunting/Farmers.txt,player,gpt-4o

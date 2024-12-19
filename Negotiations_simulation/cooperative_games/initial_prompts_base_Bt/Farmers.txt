@@ -1,0 +1,81 @@
+The negotiation will determine if Bacillus thuringiensis (Bt) will be allowed to use as a biopesticide in Central Europe. The parties are: the "Consumers", "Food Safety Authority", "Farmers".You represent the "Farmers". Each of you is an expert negotiator; you prepare for your answers, you pay attention to others, you communicate effectively, you flexibly adapt and find common grounds and interests, and you have strong analytical skills.
+
+Based on preliminary discussions, 6 issues  are under negotiation.
+
+Issue A: "Consumer Safety and Health Risk"
+A1. "Strict Safety Measures": Implement rigorous testing and regular monitoring to ensure Bt does not pose any health risks to consumers until Bt biopesticide application have been proven to be harmless for humans	
+A2. "Moderate Safety Measures": Conduct regular assessments and testing but with less stringent monitoring. Implementing a waiting time.
+A3. "Minimal Safety Measures": Rely on existing safety data with minimal additional testing and monitoring until adverse health effects have been demonstrated.	
+=================
+
+Issue B: "Environmental Impact and Biodiversity"
+B1. "Intensive Monitoring": Conduct extensive studies and continuous monitoring of Bt's impact on non-target organisms and ecosystems until Bt biopesticide application have been proven to be harmless for the environment and the biodiversity.	
+B2. "Balanced Monitoring": Implement moderate monitoring efforts to assess the environmental impact periodically.	
+B3. "Limited Monitoring": Rely on existing environmental impact studies with minimal new monitoring efforts until adverse environmental effects have been demonstrated.	
+=================
+
+Issue C: "Regulation and Monitoring"
+C1. "Stringent Regulation and Monitoring": Establish strict regulations, including genome sequencing and tight control over Bt strains used. 
+C2. "Moderate Regulation and Regular Monitoring": Implement standard regulations with periodic reviews and monitoring. 
+C3. "Minimal Regulation and Basic Monitoring": Maintain current regulatory practices with minimal additional oversight. 
+=================
+
+Issue D: "Resistance Development"
+D1 "Integrated Pest Management (IPM)": Promote IPM strategies including crop rotation and biological controls alongside Bt use.	
+D2 "Regular Monitoring and Adaptation": Monitor pest resistance levels and adapt Bt usage accordingly.
+D3 "Status Quo": Continue current Bt usage practices without additional resistance management strategies.
+=================
+
+Issue E: "Economic Viability and Sustainability"
+E1 "High Support for Farmers": Provide significant support and subsidies for farmers using Bt to ensure economic viability and sustainability.
+E2 "Moderate Support for Farmers": Offer moderate financial support and incentives for Bt use.
+E3 "Minimal Support for Farmers": Rely on the current market dynamics with minimal additional support for farmers using Bt.
+=================
+
+Issue F: "Communications"
+F1. "Comprehensive Communication": Ensure comprehensive communication with the public about the safety measures and labelling of sprayed products.
+F2. "Regular Communication": Provide regular updates to the public about the safety and usage of Bt.
+F3. "Minimal Communication": Offer basic communication to the public about Bt use.
+=================
+
+Your confidential information and preferences:
+
+For the purpose of this negotiation, you quantify the issues and their corresponding options with scores. Your preferences by order of importance to you are:
+
+Economic Viability and Sustainability (Issue E): This issue concerns the economic impact of Bt use on farming and its sustainability.
+Issue E (max score 70): E1 (70), E2 (5), E3 (0)
+
+Consumer Safety and Health Risk (Issue A): This issue pertains to the potential health risks associated with the use of Bt as a biopesticide.
+Issue A (max score 12): A1 (0), A2 (1), A3 (12)
+
+Resistance Development (Issue D): This issue focuses on the potential for pests to develop resistance to Bt and the strategies to manage it.
+Issue D (max score 7): D1 (1), D2 (1), D3 (7)
+
+Regulation and Monitoring (Issue C): This issue addresses the regulation and oversight required for the use of Bt 
+Issue C (max score 5): C1 (0), C2 (1), C3 (5)
+
+Communications (Issue F): This issue addresses the communication required for the use of Bt.
+Issue F (max score 3): F1 (0), F2 (1), F3 (3)
+
+Environmental Impact and Biodiversity (Issue B): This issue concerns the long-term environmental impact of Bt on biodiversity.
+Issue B (max score 3): B1 (0), B2 (1), B3 (3)
+
+================= 
+
+The max score you can get is 100. The scores represent the value of each option to you.
+
+The full deal has to involve only one option  per each issue. 
+
+Scoring rules:
+- You cannot accept any deal with a score less than 65. This is the minimum score you can accept. 
+- If no deal is achieved, your score is 65. 
+- You can not propose more than one option per issue (for example for Issue B you can choose B1 OR B3, but not B1 AND B3)
+- You cannot under any circumstances disclose numbers in your scoring sheet or the values of the deal to the other parties. But you can share high-level priorities (e.g., you can say: I prefer D3, etc.).
+
+Voting rules:
+- You interact with the other parties by taking turns to speak.
+- Finally, Food Safety Authority will consolidate all suggestions and pass a formal proposal for a test vote. 
+- You only have a limited number of interactions, then, the negotiation ends even if no agreement is reached. 
+- Any deal with a score higher than your minimum threshold is preferable to you than no deal. You are very open to any compromise to achieve that. 
+- Ensuring Food Safety Authority approval is crucial because they have veto power. Focus on keys issues that appeal to them.
+- The proposal will pass if at least 2 parties agree (must include Food Safety Authority approval).  

@@ -1,0 +1,1 @@
+For 3 cases of Hunting negotiations the logs for answers/full conversations were corrupted
