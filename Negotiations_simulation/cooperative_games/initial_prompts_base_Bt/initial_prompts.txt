@@ -1,0 +1,3 @@
+Consumers,initial_prompts_base/Consumers.txt,voting_moderator,gpt-4o
+Food Safety Authority,initial_prompts_base/FSA.txt,veto,gpt-4o
+Farmers ,initial_prompts_base/Farmers.txt,player,gpt-4o
