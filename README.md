@@ -6,3 +6,4 @@ The repository contains code materials for the paper: **Tackling One Health Risk
 The paper focuses on steps 1-4 of ngeotiation-centred risks assessment approach proposed by Ehling-Schulz et al., (2024) [Risk negotiation: a framework for One Health risk analysis](https://pubmed.ncbi.nlm.nih.gov/38812798/) and augments the previously developed pipeline from  Abdelnabi et al. (2024) titled [Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation](https://arxiv.org/abs/2309.17234). 
 Parts of the Langchain [cookbook](https://github.com/langchain-ai/langchain/blob/master/cookbook/two_agent_debate_tools.ipynb) were used for the prelimiary disussion simulation 
 
+`Video_S1_data` folder contains a script in a form of Jupyter Notebook that performs the data analysis of the Bt simulation scenario 
