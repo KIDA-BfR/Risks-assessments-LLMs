@@ -7,3 +7,5 @@ The paper focuses on steps 1-4 of ngeotiation-centred risks assessment approach 
 Parts of the Langchain [cookbook](https://github.com/langchain-ai/langchain/blob/master/cookbook/two_agent_debate_tools.ipynb) were used for the prelimiary disussion simulation 
 
 `Video_S1_data` folder contains a script in a form of Jupyter Notebook that performs the data analysis of the Bt simulation scenario 
+
+Note: In the current implementation the  `veto` right is directly specified in the prompts of the agents, see **voting rules** section of the used prompts. Thus, it is not required to additionally specify the veto party at the `initial_prompts_file`
