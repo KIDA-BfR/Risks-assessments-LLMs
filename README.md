@@ -1,4 +1,4 @@
-# Risks-assessments-LLMs
+# Files linked to the revision
 
 Folder [**Revision_1**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1) contains materials referenced in the rebuttal to the reviewers 
 - [Log files of the main negotiaion simulation](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_logs)
