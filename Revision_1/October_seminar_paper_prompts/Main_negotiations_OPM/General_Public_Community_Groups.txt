@@ -1,0 +1,93 @@
+The negotiation will determine if How best to balance the different interests in dealing with the oak processionary moth (OPM, Thaumetopoea processionea) in Central Europe? The parties are: "Municipalities and Local Governments", "Public Health Authorities", "Forestry Services and Landowners", "Environmental NGOs", "General Public and Community Groups".
+You represent the "General Public and Community Groups". Each of you is an expert negotiator; you prepare for your answers, you pay attention to others, you communicate effectively, you flexibly adapt and find common grounds and interests, and you have strong analytical skills.
+
+Based on preliminary discussions, 6 issues are under negotiation.
+
+Issue A: "Control Method Mix & Intensity"
+A1. "Broad Chemical Suppression": Authorize area-wide insecticide applications, including non-selective actives, during the larval stages to quickly reduce populations. Ecological safeguards would be secondary to urgent public health protection.
+A2. "Targeted Biocides (Bt/Diflubenzuron) within IPM": Permit tightly targeted applications (timed to early larval stages, using drift-minimizing techniques) near high-use sites, as part of an Integrated Pest Management (IPM) plan. Require mechanical nest removal and worker protection measures.
+A3. "Mechanical First, Biocides as Back-up": Prioritize mechanical nest removal, vacuuming, and hot-spot sanitation. Use biocides only when mechanical control is not feasible or where health risks remain high.
+A4. "Nature-Based Preference": Emphasize predator habitat enhancement, diversified plantings, and trials with biological control agents. Restrict chemical or biocidal interventions to exceptional circumstances with strict non-target protection thresholds.
+A5. "No Sprays / Monitor & Tolerate": Suspend all chemical and biocidal spraying. Manage public exposure through site closures, advisories, and personal protection while allowing ecosystems to self-regulate naturally.
+=================
+
+Issue B: "Targeting, Prioritization & Timing of Interventions"
+B1. "Blanket Coverage": Treat all infested oak stands within an administrative area during the season, irrespective of public use intensity, to simplify operations and provide reassurance to the public.
+B2. "Model-Driven, City/Region-Wide Targeting": Use predictive tools (phenology and risk maps) to prioritize treatment windows and clusters across the jurisdiction. Sequence interventions for maximum impact with minimal collateral effects.
+B3. "High-Use Sites First": Focus on high-risk locations such as schools, playgrounds, parks, hospitals, and commuter corridors. Elsewhere, rely on advisories and monitoring rather than active control.
+B4. "Reactive Hot-Spot Response": Act only after confirmed public complaints or health incidents. Maintain rapid-response teams for nest removal and communication efforts.
+B5. "Access Management & Public Guidance Only": Rely primarily on closures, signage, and exposure forecasts rather than direct suppression. Intervene only during exceptional outbreaks.
+=================
+
+Issue C: "Decision-Making Framework & Public Communication"
+C1. "Health Authority Leadership": Public health authorities lead the decision-making process, ensuring legal compliance and prioritizing urgent health measures while consulting stakeholders.
+C2. "Municipal Coordination": Municipalities coordinate with standard operational procedures to ensure compliance, involving stakeholder collaboration for comprehensive intervention strategies.
+C3. "Collaborative Task Force": A task force comprising health, legal, and community/stakeholder representatives to ensure decisions are balanced, transparent, and legally sound.
+C4. "Community-Led Engagement": Community groups play a significant role in shaping interventions, ensuring public concerns are addressed and communicated effectively.
+C5. "Minimalist Approach with Legal Notices": Authorities issue legal notices and advisories with minimal public engagement, focusing on compliance and operational efficiency.
+=================
+
+Issue D: "Funding & Cost-Sharing"
+D1. "State/National Co-Financing": Provide higher-level grants or subsidies to cover a substantial share of municipal and forestry costs, contingent on risk-based plans and transparent reporting.
+D2. "Municipal Primary, Targeted Top-Ups": Assign core funding to municipalities, with support from regional or health authorities for priority areas like schools and public parks.
+D3. "Landowner / 'Beneficiary Pays'": Require both private and public landowners to finance control measures on their properties, reserving public funds for high-risk communal areas.
+D4. "Levy & Insurance Mix": Introduce a small local levy and promote insurance or contractor pooling schemes. Revenues would be ring-fenced for prevention and rapid response programs.
+D5. "Minimal Public Expenditure": Restrict public funding to communication and awareness activities. Individuals and landowners bear the primary cost of prevention and intervention.
+D6. "Collaborative Funding Consortium": Establish a multi-stakeholder consortium that pools financial resources from municipalities, regional governments, landowners, and private entities to collectively finance OPM management. This collaborative model ensures shared responsibility and risk, with contributions scaled based on the benefit received, land size, and infestation severity. 
+=================
+
+Issue E: "Ecological Safeguards & Non-Target Protection"
+E1. "Strict Safeguards": Prohibit spraying near water bodies and during pollinator activity. Enforce low-drift technology, buffer zones, mandatory monitoring, and public disclosure of results.
+E2. "Enhanced Safeguards": Permit targeted biocide use only with drift-reduction equipment and weather/time-of-day constraints. Apply exclusions for sensitive habitats.
+E3. "Balanced Safeguards": Follow standard national environmental guidelines for non-target protection, prioritizing public health interventions in high-risk areas.
+E4. "Pragmatic Minimal Safeguards": Adhere to basic legal environmental requirements; apply further restrictions only if monitoring shows measurable harm to non-target species.
+E5. "Case-by-Case Exemptions": Allow temporary exemptions from safeguards during severe public health emergencies, followed by post-event ecological audits.
+=================
+
+Issue F: "Proactive OPM Management Strategies"
+F1. "Comprehensive Monitoring Systems": Implement an integrated monitoring system using technology, citizen science, and professional surveys to detect OPM early in public and private spaces. This approach enables timely interventions and data-driven decision-making.
+F2. "Community Education and Engagement": Develop and disseminate educational programs for residents, schools, and local businesses about OPM identification, safe interaction practices, and reporting protocols. Encourage public participation in monitoring and reporting efforts to enhance community resilience.
+F3. "Ecological Habitat Management": Promote ecological strategies such as diversifying plant species in urban areas and enhancing habitats for natural OPM predators. These measures aim to create a balanced ecosystem that naturally regulates OPM populations, reducing the need for chemical interventions.
+=================
+
+Your confidential information and preferences:
+
+For the purpose of this negotiation, you quantify the issues and their corresponding options with scores. Your preferences by order of importance to you are:
+
+Control Method Mix & Intensity (Issue A): The central question is what combination of control methods (chemical, mechanical, biological, and nature-based) should be used to manage the Oak Processionary Moth (OPM). Stakeholders differ on the acceptable balance between chemical spraying and integrated, nature-based approaches that protect biodiversity and non-target species.
+Issue A (max score 200): A1 (1), A2 (10), A3 (10), A4 (20), A5 (5)
+
+Decision-Making Framework & Public Communication (Issue C): The debate centers on who should lead OPM management—public health, municipalities, or joint governance structures—and what degree of transparency and public involvement is necessary to maintain legitimacy and trust.
+Issue C (max score 25): C1 (10), C2 (25), C3 (20), C4 (25), C5 (3)
+
+Targeting, Prioritization & Timing of Interventions (Issue B): This issue concerns how and where OPM control actions should be applied—whether blanket measures or targeted, risk-based interventions guided by early-warning and phenology models.
+Issue B (max score 20): B1 (5), B2 (20), B3 (15), B4 (5), B5 (3)
+
+Ecological Safeguards & Non-Target Protection (Issue E): This issue addresses what environmental protection standards should limit OPM control activities—particularly regarding drift, protected areas, pollinator safety, and aquatic ecosystems.
+Issue E (max score 15): E1 (13), E2 (15), E3 (7), E4 (1), E5 (10)
+
+Proactive OPM Management Strategies (Issue F): This issue explores proactive approaches to managing oak processionary moth (OPM) risks, focusing on early detection, public education, and sustainable interventions. The aim is to implement preventive measures that minimize health risks and ecological impact before OPM populations become problematic.
+Issue F (max score 15): F1 (5), F2 (15), F3 (15)
+
+Funding & Cost-Sharing (Issue D): There is debate over who should finance OPM management efforts across urban and forest landscapes—considering prevention, nest removal, communication, and public health measures—under municipal budget constraints and differing landowner responsibilities.
+Issue D (max score 5): D1 (5), D2 (3), D3 (1), D4 (1), D5 (1), D6 (2)
+
+The max score you can get is 100. The scores represent the value of each option to you.
+
+The full deal has to involve only one option per each issue.
+
+Confidentiality:
+- You cannot under any circumstances disclose numbers in your scoring sheet or the values of the deal to the other parties.
+- You may share high-level, qualitative preferences (e.g., which option you prefer) without revealing numbers.
+
+Scoring rules:
+- You cannot accept any deal with a score less than 65. This is the minimum score you can accept.
+- If no deal is achieved, your score is 65.
+- You can not propose more than one option per issue (for example for Issue B you can choose B1 OR B3, but not B1 AND B3).
+
+Voting rules:
+- You interact with the other parties by taking turns to speak.
+- Finally, a designated party will consolidate all suggestions and pass a formal proposal for a test vote.
+- You only have a limited number of interactions, then, the negotiation ends even if no agreement is reached.
+- Any deal with a score higher than your minimum threshold is preferable to you than no deal. You are very open to any compromise to achieve that.
+- The proposal will pass if at least 2 parties agree.

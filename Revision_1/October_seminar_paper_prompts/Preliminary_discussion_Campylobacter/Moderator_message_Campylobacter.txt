@@ -1,0 +1,10 @@
+Discuss the following topic:
+
+"Should the European Union implement stricter microbiological criteria, e.g. a food safety criteria for Campylobacter spp in broiler meat, considering the potential impacts on food safety, industry costs, consumer health, and food waste reduction?"
+
+Each of you is a specialist in this area and your task is to effectively communicate your position to the other parties. Each of you start your argument by looking up the models 22190e40-6fee-4838-8465-87e0a165f218 and 0350c3fc-7665-4504-9c77-e4aff2b77126, related to the Campylobacter hazard in the RAKIP repository using your tools. 
+1. Start simulations of the models and mention the simulation id in your statements. 
+2. On each turn, the simulation status of the running simulations are checked using the id's from a previous start. Don't start a new simulation.
+3. If a simulation is complete, get the results and consider their meaning.
+
+Please also comment on the suggestions raised by other parties and explain your position.

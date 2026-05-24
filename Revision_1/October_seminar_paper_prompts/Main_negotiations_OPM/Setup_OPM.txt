@@ -1,0 +1,5 @@
+Municipalities and Local Governments,Municipalities and Local Governments.txt,voting_moderator,gpt-4o
+Public Health Authorities,Public Health Authorities.txt,player,gpt-4o
+Forestry Services and Landowners,Forestry Services and Landowners.txt,player,gpt-4o
+Environmental NGOs,Environmental NGOs.txt,player,gpt-4o
+General Public and Community Groups,General Public and Community Groups.txt,player,gpt-4o
