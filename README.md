@@ -5,6 +5,7 @@ Folder [**Revision_1**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/
 - Prompts used for the simulations of the [preliminary discussion of Campylobacter case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_paper_prompts/Preliminary_discussion_Campylobacter) and [main discussion of OPM case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_paper_prompts/Main_negotiations_OPM) 
 - Results of the [anonymous survey](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_paper_prompts/Main_negotiations_OPM)
 
+# General description of the project 
 
 Project focuses on the implementation of AI-methods, Large Language Models (LLMs) in particular, for assisting negotiation-centred risks assessment.
 
