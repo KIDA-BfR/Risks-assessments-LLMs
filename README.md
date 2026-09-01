@@ -3,7 +3,7 @@
 Folder [**Revision_1**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1) contains materials referenced in the rebuttal to the reviewers 
 - [Log files of the main negotiaion simulation](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_logs)
 - Prompts used for the simulations of the [preliminary discussion of Campylobacter case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_paper_prompts/Preliminary_discussion_Campylobacter) and [main discussion of OPM case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_paper_prompts/Main_negotiations_OPM) 
-- Results of the [anonymous survey](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_paper_prompts/Main_negotiations_OPM)
+- Results of the [anonymous survey](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_logs/Seminary_Survey)
 - [RAG materials and codes](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_RAG) for Campylobacter case 
 
 # General description of the project 
