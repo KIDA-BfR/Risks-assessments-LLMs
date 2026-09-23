@@ -1,6 +1,15 @@
 # Files linked to the revision
+Folder [**Revision_2**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2) contains materials referenced in the rebuttal to the reviewers during second revision round. In short, the main additions were in sensitivity and adaptation analysis.
+- [Schema for sensitivity analysis in OPM case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Schema_OPM.png)
+- [Schema for adaptation analysis in Campylobacter case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Schema_Campy.png)
+- [Codes for sensitivity and adaptation] (https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2/Sensitivity_Adaptation-codes/Sensitivity_Adaptation)
+- [Jupyter notebook] (https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Sensitivity_Adaptation-codes/Sensitivity_Adaptation/Negotiation_analysis_OPM_Campy_Fig4_check.ipynb) containing new tables and figures.
+- [All results] (https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2/Sensitivity_Adaptation_results/Sensitivity_Adaptation_results) 
 
-Folder [**Revision_1**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1) contains materials referenced in the rebuttal to the reviewers 
+Additionally we [acknowledge](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Identified_technical_error_application.txt) the following technical error identified in the application used to communicate the simulation results to the participants during the October 2025 seminar. New version of [Figure 4](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Fig_4_corrected.png) is uploaded
+
+
+Folder [**Revision_1**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1) contains materials referenced in the rebuttal to the reviewers during first revision round
 - [Log files of the main negotiaion simulation](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_logs)
 - Prompts used for the simulations of the [preliminary discussion of Campylobacter case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_paper_prompts/Preliminary_discussion_Campylobacter) and [main discussion of OPM case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_paper_prompts/Main_negotiations_OPM) 
 - Results of the [anonymous survey](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_1/October_seminar_logs/Seminary_Survey)
