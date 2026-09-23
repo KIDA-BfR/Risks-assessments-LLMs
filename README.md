@@ -1,5 +1,5 @@
 # Files linked to the revision
-Folder [**Revision_2**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2) contains materials referenced in the rebuttal to the reviewers during second revision round. In short, the main additions were in sensitivity and adaptation analysis.
+Folder [**Revision_2**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2) contains materials referenced in the rebuttal to the reviewers during second revision round. 
 - [Schema for sensitivity analysis in OPM case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Schema_OPM.png)
 - [Schema for adaptation analysis in Campylobacter case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Schema_Campy.png)
 - [Codes for sensitivity and adaptation](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2/Sensitivity_Adaptation-codes/Sensitivity_Adaptation)
