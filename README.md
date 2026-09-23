@@ -2,9 +2,9 @@
 Folder [**Revision_2**](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2) contains materials referenced in the rebuttal to the reviewers during second revision round. In short, the main additions were in sensitivity and adaptation analysis.
 - [Schema for sensitivity analysis in OPM case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Schema_OPM.png)
 - [Schema for adaptation analysis in Campylobacter case](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Schema_Campy.png)
-- [Codes for sensitivity and adaptation] (https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2/Sensitivity_Adaptation-codes/Sensitivity_Adaptation)
-- [Jupyter notebook] (https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Sensitivity_Adaptation-codes/Sensitivity_Adaptation/Negotiation_analysis_OPM_Campy_Fig4_check.ipynb) containing new tables and figures.
-- [All results] (https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2/Sensitivity_Adaptation_results/Sensitivity_Adaptation_results) 
+- [Codes for sensitivity and adaptation](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2/Sensitivity_Adaptation-codes/Sensitivity_Adaptation)
+- [Jupyter notebook](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Sensitivity_Adaptation-codes/Sensitivity_Adaptation/Negotiation_analysis_OPM_Campy_Fig4_check.ipynb) containing new tables and figures.
+- [All results](https://github.com/KIDA-BfR/Risks-assessments-LLMs/tree/main/Revision_2/Sensitivity_Adaptation_results/Sensitivity_Adaptation_results) 
 
 Additionally we [acknowledge](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Identified_technical_error_application.txt) the following technical error identified in the application used to communicate the simulation results to the participants during the October 2025 seminar. New version of [Figure 4](https://github.com/KIDA-BfR/Risks-assessments-LLMs/blob/main/Revision_2/Fig_4_corrected.png) is uploaded
 
