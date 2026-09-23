@@ -1,0 +1,31 @@
+party,issue,baseline_weight,lower,upper,half_width,floor_binding,zero_weight_rule
+Municipalities and Local Governments,A,15.0,11.25,18.75,3.75,False,False
+Municipalities and Local Governments,B,23.0,17.25,28.75,5.75,False,False
+Municipalities and Local Governments,C,25.0,18.75,31.25,6.25,False,False
+Municipalities and Local Governments,D,25.0,18.75,31.25,6.25,False,False
+Municipalities and Local Governments,E,2.0,1.0,3.0,1.0,True,False
+Municipalities and Local Governments,F,10.0,7.5,12.5,2.5,False,False
+Public Health Authorities,A,25.0,18.75,31.25,6.25,False,False
+Public Health Authorities,B,25.0,18.75,31.25,6.25,False,False
+Public Health Authorities,C,5.0,3.75,6.25,1.25,False,False
+Public Health Authorities,D,15.0,11.25,18.75,3.75,False,False
+Public Health Authorities,E,5.0,3.75,6.25,1.25,False,False
+Public Health Authorities,F,25.0,18.75,31.25,6.25,False,False
+Forestry Services and Landowners,A,17.0,12.75,21.25,4.25,False,False
+Forestry Services and Landowners,B,17.0,12.75,21.25,4.25,False,False
+Forestry Services and Landowners,C,17.0,12.75,21.25,4.25,False,False
+Forestry Services and Landowners,D,17.0,12.75,21.25,4.25,False,False
+Forestry Services and Landowners,E,17.0,12.75,21.25,4.25,False,False
+Forestry Services and Landowners,F,15.0,11.25,18.75,3.75,False,False
+Environmental NGOs,A,25.0,18.75,31.25,6.25,False,False
+Environmental NGOs,B,14.0,10.5,17.5,3.5,False,False
+Environmental NGOs,C,16.0,12.0,20.0,4.0,False,False
+Environmental NGOs,D,5.0,3.75,6.25,1.25,False,False
+Environmental NGOs,E,13.0,9.75,16.25,3.25,False,False
+Environmental NGOs,F,27.0,20.25,33.75,6.75,False,False
+General Public and Community Groups,A,20.0,15.0,25.0,5.0,False,False
+General Public and Community Groups,B,20.0,15.0,25.0,5.0,False,False
+General Public and Community Groups,C,25.0,18.75,31.25,6.25,False,False
+General Public and Community Groups,D,5.0,3.75,6.25,1.25,False,False
+General Public and Community Groups,E,15.0,11.25,18.75,3.75,False,False
+General Public and Community Groups,F,15.0,11.25,18.75,3.75,False,False
